@@ -13,42 +13,42 @@ fundraising:
       displayname: No-profit organization
   permalink: /raccolte-fondi/
   markericon: eur
-  markercolor: purple
+  markercolor: yellow
 games and activities for children:
   displayname: Children
   labelnames: 
     - children
   permalink: /giochi-intrattenimento-bambini/
   markericon: puzzle-piece
-  markercolor: darkslateblue
+  markercolor: turquoise
 solidarity services and initiatives:
   displayname: solidarity services and initiatives
   labelnames:
     - services
   permalink: /servizi-e-iniziative-solidali/
   markericon: handshake-o
-  markercolor: blue
+  markercolor: salmon
 psychological support:
   displayname: psychological support
   labelnames: 
     - psychologicalSupport
   permalink: /supporto-psicologico/
   markericon: people-arrows
-  markercolor: green
+  markercolor: thistle
 work and business support:
   displayname: Work and Business Support
   labelnames: 
     - jobOffer
   permalink: /sostegno-lavoro-e-imprese/
   markericon: industry
-  markercolor: brown
+  markercolor: violet
 goods donations and services offering:
   displayname: Goods donations and services offering
   labelnames: 
     - materialGoods
   permalink: /donazioni-beni-e-offerte-servizi/
   markericon: hand-holding-heart
-  markercolor: purple
+  markercolor: teal
 useful news:
   displayname: News
   labelnames: 
@@ -80,10 +80,10 @@ women:
 disability services:
   displayname: Support to disabilities
   labelnames: 
-    - disability
+    - disabilityServices
   permalink: /disabilityServices/
   markericon: wheelchair
-  markercolor: orange
+  markercolor: grey
 translations:
   displayname: Translations
   labelnames: 
